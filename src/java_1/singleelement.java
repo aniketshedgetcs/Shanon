@@ -42,6 +42,7 @@ public class singleelement {
 			ListIterator litr = al.listIterator();
 			while(litr.hasNext()) {
 				System.out.println(litr.next());
+				System.out.println(comment from lead);
 		}
 	}	
 	}
